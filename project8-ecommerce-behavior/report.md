@@ -1,26 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "45d62989-f96b-4b67-af81-6d0e0a6dca9a",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "",
-   "name": ""
-  },
-  "language_info": {
-   "name": ""
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+
 ## 一、拉新渠道效果评估
 
 ### 1. 核心现象（带数字）
