@@ -1,12 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "5743cd44-1cde-41f8-9be4-db81fd32de97",
-   "metadata": {},
-   "source": [
-    "## 项目背景与数据\n",
-    "\n",
+
     "本次分析为某连锁便利店城市网点扩张项目，现有门店运营满一年，总部预算仅支持新增**1 家门店**，共 8 个预选点位，需要评估现有需求覆盖并选出最优候选地址，用于项目上会决策。\n",
     "**三张基础数据表：**\n",
     "\n",
@@ -67,36 +59,4 @@
     "2. 客单价基于门店月度营收、日均订单估算，采用需求点加权逻辑，并非用户真实收银客单价；\n",
     "3. 模型为空间模拟分析：假设 2km 范围内需求会转化为门店订单，未考虑交通阻隔、周边竞争门店、居民消费意愿等现实因素；\n",
     "4. 仅使用静态点位数据，未纳入未来人口流动、区域规划变动等长期变量。"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "66f2b63e-9beb-47b3-a16a-e6d988d1e167",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python (datalearn)",
-   "language": "python",
-   "name": "datalearn"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.11.15"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+   
